@@ -1,0 +1,6 @@
+ID,nume,descriere,idprofesor, id-uri studenti
+1,"curs1","descriere curs1",1,3,4
+2,"curs2","descriere curs2",1
+3,"curs3","descriere curs3",2,1,2,5
+4,"curs4","descriere curs4",3,3,4,5,6
+5,"curs5","descriere curs5"
